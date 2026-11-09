@@ -1,2 +1,2 @@
 # gitHell
-Projet Git Hell
+Projet Git Hell (+Initialisation)
